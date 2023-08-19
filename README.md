@@ -4,4 +4,4 @@ In this project, our goal is to fill-in the gaps of a detaset with the help of p
 
 ![image](https://github.com/romidi80/Linear-Regression-on-FuelConsumption-Dataset/assets/89667194/11c3271f-5df4-4ffb-b90d-d0dba0655af6)
 
-
+The complete codes and report is shown in report.html file.
