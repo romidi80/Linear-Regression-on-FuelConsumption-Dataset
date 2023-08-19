@@ -12,3 +12,4 @@ FuelConsumption.csv file which is our dataset looks like this:
 we used different methods disscused in the report file, to find the best feature that best represents the output data.
 
 ![image](https://github.com/romidi80/Linear-Regression-on-FuelConsumption-Dataset/assets/89667194/c7406bc1-9ff2-452e-8a32-9a897c89d804)
+
