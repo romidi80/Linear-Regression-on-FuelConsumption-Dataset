@@ -8,3 +8,7 @@ In this project, our goal is to fill-in the gaps of a detaset with the help of p
 FuelConsumption.csv file which is our dataset looks like this:
 
 ![image](https://github.com/romidi80/Linear-Regression-on-FuelConsumption-Dataset/assets/89667194/49c0993d-c8ce-443c-a9e3-90e22627975a)
+
+we used different methods disscused in the report file, to find the best feature that best represents the output data.
+
+![image](https://github.com/romidi80/Linear-Regression-on-FuelConsumption-Dataset/assets/89667194/c7406bc1-9ff2-452e-8a32-9a897c89d804)
